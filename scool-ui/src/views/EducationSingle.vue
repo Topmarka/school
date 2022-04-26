@@ -497,8 +497,7 @@
                   </div>
                   <div class="diploma-text">
                     <h4 class="diploma-title mt-2">Диплом ХОД Future Academy</h4>
-                    <p class="diploma-decs">Подтвердит, что вы прошли курс, и станет дополнительным аргументом при
-                      устройстве на работу.</p>
+                    <p class="diploma-decs">Подтвердит, что вы прошли курс и обладаете нужными для работы навыками.</p>
                   </div>
                 </div>
               </div>
